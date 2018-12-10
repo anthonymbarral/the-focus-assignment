@@ -1,0 +1,359 @@
+Body {
+  width: 1600px;
+}
+#hero{
+  width: 1600px;
+  height: 700px;
+  background-image: url(large-banner-image.png);
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#phone{
+   top: 400px;
+   left: 575px;
+   position: absolute;
+}
+#focus{
+   font-size: 60px;
+   font-family: pacifico;
+   color: #222222;
+   text-align: center;
+   position: absolute;
+   top: 100px;
+   left: 770px
+}
+#focus-logo{
+   width: 68px;
+   top: 100px;
+   left: 680px;
+   position: absolute;
+}
+#tag-line{
+   font-size: 36px;
+   font-family: Raleway-Light;
+   color: #222222;
+   text-align: auto;
+   position: absolute;
+   top: 250px;
+   left: 450px;
+}
+#down-arrow{
+   width: 50px;
+   top: 331px;
+   left: 774px;
+   position: absolute;
+}
+#dot1{
+   left: 715px;
+   top: 693px;
+   position: absolute;
+}
+#dot2{
+   left: 845px;
+   top: 603px;
+   position: absolute;
+}
+#dot3{
+   left: 716px;
+   top: 900px;
+   position: absolute;
+}
+#black-dot{
+   left: 850px;
+   top: 805px;
+   position: absolute;
+}
+#cursor{
+   width: 18px;
+   left: 862px;
+   top: 822px;
+   position: absolute;
+}
+#feature1-title{
+   font-size: 22px;
+   font-family: raleway-semibold;
+   color: #222222;
+   margin-left: 273px;
+   top: 757px;
+   position: absolute;
+}
+#feature1{
+   font-size: 16px;
+   color: #848484;
+   text-align: left;
+   top: 805px;
+   width: 305px;
+   position: absolute;
+   left: 272px;
+   line-height: 1.5em;
+}
+#feature2-title{
+   font-size: 22px;
+   font-family: raleway-semibold;
+   color: #222222;
+   margin-left: 1027px;
+   top: 757px;
+   position: absolute;
+}
+#feature2{
+   font-size: 16px;
+   color: #848484;
+   text-align: left;
+   top: 805px;
+   width: 305px;
+   position: absolute;
+   left: 1027px;
+   line-height: 1.5em;
+}
+#feature3-title{
+   font-size: 22px;
+   font-family: raleway-semibold;
+   color: #222222;
+   margin-left: 272px;
+   top: 929px;
+   position: absolute;
+}
+#feature3{
+   font-size: 16px;
+   color: #848484;
+   text-align: left;
+   top: 978px;
+   width: 305px;
+   position: absolute;
+   left: 272px;
+   line-height: 1.5em;
+}
+#feature4-title{
+   font-size: 22px;
+   font-family: raleway-semibold;
+   color: #222222;
+   margin-left: 1027px;
+   top: 929px;
+   position: absolute;
+}
+#feature4{
+   font-size: 16px;
+   color: #848484;
+   text-align: left;
+   top: 978px;
+   width: 305px;
+   position: absolute;
+   left: 1027px;
+   line-height: 1.5em;
+}
+#box1{
+   background-color: #E3E3E3;
+   width:1600px;
+   height: 427px;
+   top: 1198px;
+   position: absolute;
+}
+#getapp-title{
+   font-size: 22px;
+   font-family:raleway-semibold;
+   left:210px;
+   top:1255px;
+   color: #222222;
+   position: absolute;
+}
+#getapp-content{
+   font-size: 16px;
+   font: helvetica;
+   color: #848484;
+   left:210px;
+   top:1302px;
+   width: 530px;
+   position: absolute;
+   line-height: 1.5em;
+}
+#apple{
+   width: 68px;
+   left: 212px;
+   top: 1426px;
+   position: absolute;
+}
+#android{
+   width: 68px;
+   left: 298px;
+   top: 1426px;
+   position: absolute;
+}
+#windows{
+   width: 68px;
+   left: 386px;
+   top: 1426px;
+   position: absolute;
+}
+#video-background{
+   width: 500px;
+   left: 890px;
+   top: 1254px;
+   position: absolute;
+}
+#video-play{
+   width: 76px;
+   left: 908px;
+   top: 1497px;
+   position: absolute;
+}
+#video-scrub{
+   width: 371px;
+   left: 1005px;
+   top: 1500px;
+   position: absolute;
+}
+#quote{
+   font-size: 24px;
+   font-family: raleway-regular;
+   color: black;
+   margin-left: 386px;
+   top: 1685px;
+   position: absolute;
+}
+#quote-name{
+   font-size: 14px;
+   font-family: helvetica-bold;
+   color: black;
+   margin-left: 732px;
+   top: 1729px;
+   position: absolute;
+}
+#quote-job{
+   font-size: 14px;
+   font-family: helvetica;
+   color: black;
+   margin-left: 818px;
+   top: 1729px;
+   position: absolute;
+}
+#people{
+   width: 1600px;
+   top: 1800px;
+   position: absolute;
+}
+#excited-guy{
+   width: 80px;
+   left: 915px;
+   top: 1880px;
+   position: absolute;
+}
+#cursor2{
+   width: 18px;
+   left: 924px;
+   top: 1936px;
+   position: absolute;
+}
+#intouch{
+   font-size: 24px;
+   font-family: raleway;
+   color: black;
+   margin-left: 681px;
+   top: 2180px;
+   position: absolute;
+}
+#intouch-content{
+   font-size: 16px;
+   font-family: raleway;
+   color: ##848484;
+   margin-left: 555px;
+   top: 2224px;
+   position: absolute;
+}
+#twitter{
+   width: 34px;
+   left: 678px;
+   top: 2265px;
+   position: absolute;
+}
+#facebook{
+   width: 34px;
+   left: 723px;
+   top: 2265px;
+   position: absolute;
+}
+#pintrest{
+   width: 34px;
+   left: 766px;
+   top: 2265px;
+   position: absolute;
+}
+#google{
+   width: 34px;
+   left: 809px;
+   top: 2265px;
+   position: absolute;
+}
+#linkedin{
+   width: 34px;
+   left: 853px;
+   top: 2265px;
+   position: absolute;
+}
+#youtube{
+   width: 34px;
+   left: 897px;
+   top: 2265px;
+   position: absolute;
+}
+#cursor3{
+   width: 18px;
+   left: 783px;
+   top: 2290px;
+   position: absolute;
+}
+#box2{
+   width: 1600px;
+   top: 2358px;
+   height: 136px;
+   background-color: #E3E3E3;
+   position: absolute;
+}
+#contact{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 527px;
+   top: 2416px;
+   position: absolute;
+}
+#download{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 620px;
+   top: 2416px;
+   position: absolute;
+}
+#press{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 728px;
+   top: 2416px;
+   position: absolute;
+}
+#email{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 804px;
+   top: 2416px;
+   position: absolute;
+}
+#support{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 878px;
+   top: 2416px;
+   position: absolute;
+}
+#privacy{
+   font-size: 16px;
+   font-family: helvetica;
+   color: #848484;
+   margin-left: 972px;
+   top: 2416px;
+   position: absolute;
+}
